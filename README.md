@@ -1,2 +1,4 @@
 # todoList
-Ejercicio Coderhouse: todoList: nota y checklist
+
+CoderHouse: hacer una lista de tareas que reciba notas simples y checklist
+
