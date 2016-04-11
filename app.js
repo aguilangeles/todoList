@@ -26,6 +26,7 @@ var urlencodedParser = bodyParser.urlencoded({ extended: false })
 
 app.use(jsonParser);
 app.use(urlencodedParser);
+app.use(express.static('public'));
 
 // parse application/json
 app.listen(3000, function () {

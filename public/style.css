@@ -1,0 +1,7 @@
+.presentacion {
+    text-align: center;
+    min-height: 400px;
+}
+.presentacion h1    {
+    margin: 60px;
+}
